@@ -1,1 +1,1 @@
-# This is a sent of colutions of tasks I solved during Data Science course at Stepik platform
+# This is a set of colutions of tasks I solved during Data Science course at Stepik platform
